@@ -1,4 +1,4 @@
-## AIAA-5027 Deep Learning for Visual Intelligence: Trends and Challenges @ AI Thrust, INFH, GZ Campus, HKUST
+## Deep Learning for Visual Intelligence: Trends and Challenges @ HKUST
 
 * Course information
 
