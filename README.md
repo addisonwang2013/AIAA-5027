@@ -1,6 +1,6 @@
 ## Deep Learning for Visual Intelligence: Trends and Challenges @ HKUST
 
-* Course information
+### Course information
 
 
 Download 
